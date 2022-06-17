@@ -31,5 +31,5 @@
 ## 함수 및 매개변수 값들에 대한 설명
 ![image](https://user-images.githubusercontent.com/101388180/174302902-184e1cd1-1c4b-4846-b015-53d66286111c.png)
 
-x축 즉 독립변수는 연도 y축은 남성선수들의 기록이다.
+x축 즉 독립변수는 연도 y축은 남성선수들의 기록이다.  
 ![5](https://user-images.githubusercontent.com/101388180/174302692-000f71e0-f215-4960-b356-46f08c563c78.PNG)
