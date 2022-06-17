@@ -3,8 +3,9 @@
 ## 단순선형회귀분석 (Simple-Linear-Regression-Analysis) 의 정의
 선형회귀 분석은 독립 변수(independent)와 종속(dependent) 변수 간의 관계를 찾는 통계적 방법이다.
 ## 단순선형회귀 (Simple-Linear-Regression-Analysis) 를 위한 용어정리
-  H(x) = Wx+b
-  -파라미터(parameter)  
+  H(x) = Wx+b  
+  
+  - 파라미터(parameter)  
     1.독립변수 x     
     2.종속변수 y    
   - 모수  
